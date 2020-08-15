@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Kevin 👋
 
-<!--
-**k3vn19/k3vn19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a developer and fútbol enthusiast! 
+- ⚽ My favorite team is the San Jose Earthquakes followed closely by Boca Juniors 
+- 🌱 I completed my B.S. in Computer Engineering at University of California, San Diego
+- 🔭 I’m currently working as an android developer
+- 😄 Pronouns: he/him/his
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+<!-- [<img align="left" alt="kevin | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+[<img align="left" alt="kevin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="kevin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="kevin | website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][stackoverflow]
+
+[dev]: https://dev.to/k1barron
+[twitter]: https://twitter.com/k1barron
+[linkedin]: https://www.linkedin.com/in/k1barron/
+[stackoverflow]: https://stackoverflow.com/users/9448028/kevin-barron
