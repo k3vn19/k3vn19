@@ -1,4 +1,4 @@
-### Hi there, I'm Kevin 👋
+### Hi there, I'm Kevin 👋 ![GitHub followers](https://img.shields.io/github/followers/k3vn19?label=Follow&style=social)
 
 ## I'm a developer and fútbol enthusiast! 
 - ⚽ My favorite team is the San Jose Earthquakes followed closely by Boca Juniors 
@@ -17,8 +17,8 @@
 
 ## Connect with me 
 [![Twitter](https://img.shields.io/twitter/follow/k1barron?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?&screen_name=k1barron)
-<!-- [<img align="left" alt="kevin | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="kevin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<!-- [<img align="left" alt="kevin | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="kevin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
 [<img align="left" alt="kevin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kevin | website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][stackoverflow]
 
