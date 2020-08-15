@@ -6,7 +6,7 @@
 - 🔭 I’m currently working as an android developer
 - 😄 Pronouns: he/him/his
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k3vn19&layout=compact)](https://github.com/k3vn19/k3vn19)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k3vn19&layout=compact&hide=systemverilog)](https://github.com/k3vn19/k3vn19)
 
 <details>
   <summary>:zap: Github Stats</summary>
