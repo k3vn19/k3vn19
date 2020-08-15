@@ -13,6 +13,15 @@
 [<img align="left" alt="kevin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kevin | website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][stackoverflow]
 
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="my Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=k3vn19&show_icons=true&hide_border=true" />
+
+</details>
+
+
 [dev]: https://dev.to/k1barron
 [twitter]: https://twitter.com/k1barron
 [linkedin]: https://www.linkedin.com/in/k1barron/
