@@ -11,7 +11,12 @@
 <img align="left" alt="kotlin" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <img align="left" alt="java" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
+<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k3vn19&layout=compact)](https://github.com/k3vn19/k3vn19)
+
+<br />
+<br />
 
 <details>
   <summary>:zap: Github activity</summary>
@@ -23,8 +28,11 @@
   <img align="left" alt="my Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=k3vn19&show_icons=true&hide_border=true" />
 </details>
 
+<br />
+
 ## Connect with me 
 [![Twitter](https://img.shields.io/twitter/follow/k1barron?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?&screen_name=k1barron)
+<br />
 <!-- [<img align="left" alt="kevin | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="kevin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
 [<img align="left" alt="kevin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
