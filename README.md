@@ -8,6 +8,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k3vn19&layout=compact)](https://github.com/k3vn19/k3vn19)
 
+
+<!-- START_SECTION: activity -->
+
 <details>
   <summary>:zap: Github Stats</summary>
 
