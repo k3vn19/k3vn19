@@ -10,18 +10,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k3vn19&layout=compact)](https://github.com/k3vn19/k3vn19)
 
-<br />
-
 <img align="left" alt="android" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="kotlin" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <img align="left" alt="java" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
 <br />
 
-<details>
-  <summary>:zap: Github Activity</summary>
-<!--START_SECTION:activity-->
-</details>
 
 <details>
   <summary>:zap: Github Stats</summary>
