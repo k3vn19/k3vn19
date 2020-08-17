@@ -23,10 +23,11 @@
 <!-- [<img align="left" alt="kevin | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="kevin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
 [<img align="left" alt="kevin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="kevin | website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][stackoverflow]
+[<img align="left" alt="kevin | stack overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="kevin | dev dot to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][devdotto]
 
 
-[dev]: https://dev.to/k1barron
+[devdotto]: https://dev.to/k1barron
 [twitter]: https://twitter.com/k1barron
 [linkedin]: https://www.linkedin.com/in/k1barron/
 [stackoverflow]: https://stackoverflow.com/users/9448028/kevin-barron
